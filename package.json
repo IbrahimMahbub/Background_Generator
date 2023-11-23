@@ -1,0 +1,22 @@
+{
+  "name": "background_generator",
+  "version": "1.0.0",
+  "description": "Background Generator App build using Java Script",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IbrahimMahbub",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahimMahbub/Background_Generator.git"
+  },
+  "keywords": [
+    "background"
+  ],
+  "bugs": {
+    "url": "https://github.com/IbrahimMahbub/Background_Generator/issues"
+  },
+  "homepage": "https://github.com/IbrahimMahbub/Background_Generator#readme"
+}
